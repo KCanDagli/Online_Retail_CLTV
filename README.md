@@ -1,1 +1,1 @@
-# Online_Retail_CLTV
+# I calculated customer lifetime value for online retail.
